@@ -1,0 +1,13 @@
+volatility_volume_ratio
+stoch_k
+stoch_d
+rolling_vol_7
+rolling_return_7
+CCI
+ADX_pos
+price_range
+volatility
+Williams_%R
+RSI
+MACD
+Close

@@ -1,0 +1,26 @@
+name: bitcoin-analysis
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy=1.24.4
+  - pandas=2.1.1
+  - matplotlib=3.8.0
+  - scikit-learn=1.3.2
+  - scipy=1.11.4
+  - seaborn=0.12.2
+  - plotly=6.0.0
+  - python-dotenv=1.1.0
+  - yfinance=0.2.27
+  - statsmodels=0.14.0
+  - optuna=3.1.0
+  - shap=0.42.0
+  - pandas-ta=0.3.14b0
+  - xgboost=1.8.4
+  - lightgbm=4.0.0
+  - pip:
+    - tensorflow==2.15.0
+    - keras==2.15.0
+    - optuna-integration[tfkeras]==0.1.0
+    - tensorflow-macos==2.15.0; sys.platform == 'darwin'
+    - tensorflow-metal==0.6.0; sys.platform == 'darwin'
