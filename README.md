@@ -1,5 +1,5 @@
 
-# Bitcoin Price Prediction: Advanced ML Model Ensemble with Hyperparameter Optimization
+# Bitcoin "percentreturn" Prediction: Advanced ML Model Ensemble with Hyperparameter Optimization
 
 ## Project Overview
 This project represents a sophisticated machine learning approach to Bitcoin price prediction, leveraging multiple state-of-the-art algorithms and advanced hyperparameter optimization techniques. It has 36 algorithm implementation scripts and 306 saved model artifacts. The implementation showcases a complex ensemble of RNN, LSTM, LightGBM, and XGBoost models, each individually optimized using Bayesian optimization through Optuna.
