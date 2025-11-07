@@ -258,3 +258,5 @@ This project thus provides a full-stack, production-grade pipeline for Bitcoin p
 
 
 This project represents a comprehensive exploration of modern machine learning techniques applied to cryptocurrency price prediction, with a strong focus on optimization, robustness, and ensemble methods. The combination of traditional gradient boosting methods with deep learning approaches, enhanced by sophisticated hyperparameter tuning, creates a robust prediction framework capable of capturing both linear and non-linear patterns in Bitcoin price movements.
+
+SORRY FOR THE BAD FILE ORGANIZATION I WILL DO BETTER BUT NOT TODAY.
