@@ -1,5 +1,7 @@
 
-# Bitcoin "percentreturn" Prediction: Advanced ML Model Ensemble with Hyperparameter Optimization
+# Bitcoin "percentreturn" Prediction Research: Advanced ML Model Ensemble with Hyperparameter Optimization
+  1000+ Hours of training runs 
+  
 
 ## Project Overview
 This project represents a sophisticated machine learning approach to Bitcoin price prediction, leveraging multiple state-of-the-art algorithms and advanced hyperparameter optimization techniques. It has 36 algorithm implementation scripts and 306 saved model artifacts. The implementation showcases a complex ensemble of RNN, LSTM, LightGBM, and XGBoost models, each individually optimized using Bayesian optimization through Optuna.
@@ -33,7 +35,7 @@ This project represents a sophisticated machine learning approach to Bitcoin pri
 
 #### Additional Insights from Model Results
 
-- **Feature Importance**: Volatility and volume indicators consistently ranked as the most predictive features.
+- **Feature Importance**: Volatility and volume indicators consistently ranked as the most predictive features. 
 - **Directional Accuracy**: Top models and ensembles achieved over **90%** directional accuracy, with LightGBM reaching **100%**.
 - **Robustness**: All models validated using walk-forward and time-series splits to prevent lookahead bias.
 - **Residual Analysis**: Residuals show low mean and standard deviation, indicating well-calibrated predictions.
